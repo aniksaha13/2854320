@@ -277,3 +277,13 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1780924730:KeyName=prod_linear:Signature=Fobtax2F968FetPUmnpLgkJUmgR0ZBPhRmR6s-CC4fnMXEC9H7GCcMqT7jZJT3tu7r5qArDLZN_234Mla0hTCA"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",[BD] Cartoon Network HD +
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="1542183" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France%20VS%20Northern%20Ireland%20%20Friendlies.jpg" group-title="Football", France vs Northern Ireland - Friendlies [450]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=335824aa1135712745406cbb07750410609d616b&x-sign=ae678601e6e02aa811825668ae4851cc&x-time=1780950600
+#EXTINF:-1 tvg-id="1542183" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France%20VS%20Northern%20Ireland%20%20Friendlies.jpg" group-title="Football", France vs Northern Ireland - Friendlies [450]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1781037039-Kv4cPTAAP5YTi-335824aa1135712745406cbb07750410609d616b-3ef262d8dd175d69c966c02b70ad6f2a
